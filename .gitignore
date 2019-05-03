@@ -1,0 +1,5 @@
+# Metadata IDEA folders
+.idea
+
+# Build folders
+target/
